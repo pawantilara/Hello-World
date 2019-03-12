@@ -1,2 +1,2 @@
-# Hello-World
-its just another repository
+hepatitis
+Mini project on hepatitis
