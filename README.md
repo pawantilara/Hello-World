@@ -1,3 +1,1 @@
-hepatitis project
-
-Mini project on hepatitis
+Basic machine learning projects.
